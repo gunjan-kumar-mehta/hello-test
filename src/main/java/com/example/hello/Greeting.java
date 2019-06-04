@@ -4,6 +4,8 @@ package com.example.hello;
 
 public class Greeting {
 
+    private final long secondName;
+
     private final long id;
     private final String content;
 
